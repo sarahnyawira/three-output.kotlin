@@ -1,0 +1,5 @@
+fun main(){
+    println("sarah is a developer")
+    println("sarah loves coding")
+    println("she loves to learn and learn")
+}
